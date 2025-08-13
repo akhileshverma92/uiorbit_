@@ -1,0 +1,170 @@
+[
+  {
+    "id": "shadcn-ui",
+    "name": "shadcn/ui",
+    "logo": "https://ui.shadcn.com/favicon.ico",
+    "overview": "Beautifully designed components built with Radix UI and Tailwind CSS.",
+    "rating": 4.9,
+    "installCommand": "npx shadcn-ui@latest init",
+    "tags": ["React", "Tailwind", "Radix UI", "TypeScript"],
+    "description": "A collection of reusable components built using Radix UI and Tailwind CSS. Copy and paste into your apps.",
+    "features": [
+      "Accessible and customizable components",
+      "Built with Radix UI primitives",
+      "Styled with Tailwind CSS",
+      "TypeScript support",
+      "Copy and paste workflow"
+    ],
+    "docsUrl": "https://ui.shadcn.com",
+    "githubUrl": "https://github.com/shadcn-ui/ui",
+    "weeklyDownloads": "2.1M",
+    "dateAdded": "2024-01-15"
+  },
+  {
+    "id": "chakra-ui",
+    "name": "Chakra UI",
+    "logo": "https://chakra-ui.com/favicon.png",
+    "overview": "Simple, modular and accessible component library for React applications.",
+    "rating": 4.7,
+    "installCommand": "npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion",
+    "tags": ["React", "Emotion", "Accessible", "TypeScript"],
+    "description": "Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.",
+    "features": [
+      "Simple and intuitive API",
+      "Themeable and customizable",
+      "Accessible by default",
+      "Composable components",
+      "Dark mode support"
+    ],
+    "docsUrl": "https://chakra-ui.com",
+    "githubUrl": "https://github.com/chakra-ui/chakra-ui",
+    "weeklyDownloads": "1.8M",
+    "dateAdded": "2024-01-10"
+  },
+  {
+    "id": "mantine",
+    "name": "Mantine",
+    "logo": "https://mantine.dev/favicon.svg",
+    "overview": "Full-featured React components library with 100+ customizable components.",
+    "rating": 4.8,
+    "installCommand": "npm install @mantine/core @mantine/hooks",
+    "tags": ["React", "TypeScript", "Full-featured", "Customizable"],
+    "description": "Build fully functional accessible web applications faster than ever with Mantine's comprehensive component library.",
+    "features": [
+      "100+ customizable components",
+      "TypeScript based",
+      "Accessible components",
+      "Dark theme support",
+      "Flexible theming system"
+    ],
+    "docsUrl": "https://mantine.dev",
+    "githubUrl": "https://github.com/mantinedev/mantine",
+    "weeklyDownloads": "900K",
+    "dateAdded": "2024-01-08"
+  },
+  {
+    "id": "ant-design",
+    "name": "Ant Design",
+    "logo": "https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg",
+    "overview": "Enterprise-class UI design language and React UI library.",
+    "rating": 4.6,
+    "installCommand": "npm install antd",
+    "tags": ["React", "Enterprise", "Design System", "TypeScript"],
+    "description": "An enterprise-class UI design language and React UI library with a set of high-quality React components.",
+    "features": [
+      "Enterprise-class design language",
+      "High-quality React components",
+      "Internationalization support",
+      "Powerful theme customization",
+      "TypeScript support"
+    ],
+    "docsUrl": "https://ant.design",
+    "githubUrl": "https://github.com/ant-design/ant-design",
+    "weeklyDownloads": "3.2M",
+    "dateAdded": "2024-01-05"
+  },
+  {
+    "id": "material-ui",
+    "name": "Material-UI",
+    "logo": "https://mui.com/static/favicon.ico",
+    "overview": "React components implementing Google's Material Design.",
+    "rating": 4.5,
+    "installCommand": "npm install @mui/material @emotion/react @emotion/styled",
+    "tags": ["React", "Material Design", "Google", "TypeScript"],
+    "description": "MUI provides a simple, customizable, and accessible library of React components that implements Google's Material Design.",
+    "features": [
+      "Material Design components",
+      "Comprehensive component library",
+      "Theming and customization",
+      "Accessibility support",
+      "TypeScript definitions"
+    ],
+    "docsUrl": "https://mui.com",
+    "githubUrl": "https://github.com/mui/material-ui",
+    "weeklyDownloads": "4.1M",
+    "dateAdded": "2024-01-03"
+  },
+  {
+    "id": "headless-ui",
+    "name": "Headless UI",
+    "logo": "https://headlessui.com/favicon.ico",
+    "overview": "Unstyled, accessible UI components for React and Vue.",
+    "rating": 4.4,
+    "installCommand": "npm install @headlessui/react",
+    "tags": ["React", "Vue", "Headless", "Accessible", "Tailwind"],
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+    "features": [
+      "Completely unstyled",
+      "Fully accessible",
+      "Keyboard navigation",
+      "Focus management",
+      "Works with Tailwind CSS"
+    ],
+    "docsUrl": "https://headlessui.com",
+    "githubUrl": "https://github.com/tailwindlabs/headlessui",
+    "weeklyDownloads": "1.5M",
+    "dateAdded": "2024-01-12"
+  },
+  {
+    "id": "react-bootstrap",
+    "name": "React Bootstrap",
+    "logo": "https://react-bootstrap.github.io/img/logo.svg",
+    "overview": "Bootstrap components built for React.",
+    "rating": 4.3,
+    "installCommand": "npm install react-bootstrap bootstrap",
+    "tags": ["React", "Bootstrap", "Responsive", "CSS Framework"],
+    "description": "The most popular front-end framework rebuilt for React. Bootstrap components built for React.",
+    "features": [
+      "Bootstrap 5 components",
+      "Responsive design",
+      "Extensive component library",
+      "Easy to customize",
+      "Well documented"
+    ],
+    "docsUrl": "https://react-bootstrap.github.io",
+    "githubUrl": "https://github.com/react-bootstrap/react-bootstrap",
+    "weeklyDownloads": "2.8M",
+    "dateAdded": "2024-01-01"
+  },
+  {
+    "id": "nextui",
+    "name": "NextUI",
+    "logo": "https://nextui.org/favicon.ico",
+    "overview": "Beautiful, fast and modern React UI library.",
+    "rating": 4.7,
+    "installCommand": "npm install @nextui-org/react framer-motion",
+    "tags": ["React", "Next.js", "Modern", "Beautiful", "TypeScript"],
+    "description": "NextUI is a beautiful, fast, and modern React UI library that allows you to create beautiful websites regardless of your design experience.",
+    "features": [
+      "Beautiful default theme",
+      "Automatic dark mode",
+      "Fully customizable",
+      "TypeScript support",
+      "Tree-shaking support"
+    ],
+    "docsUrl": "https://nextui.org",
+    "githubUrl": "https://github.com/nextui-org/nextui",
+    "weeklyDownloads": "450K",
+    "dateAdded": "2024-01-18"
+  }
+]

@@ -6,6 +6,7 @@ import LibraryDetail from './components/LibraryDetail';
 import Stats from './components/Stats';
 import { useLibraries } from './hooks/useLibraries';
 import { Library } from './types/library';
+import { Analytics } from "@vercel/analytics/next"
 
 function App() {
   const {
@@ -21,6 +22,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gray-50">
+      <Analytics/>
       <Header />
       
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">

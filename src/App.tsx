@@ -81,7 +81,7 @@ function App() {
           <div className="text-center">
             <p className="text-gray-600">
               Built with ❤️ for the frontend community. 
-              <a href="#" className="text-blue-600 hover:text-blue-700 ml-1">
+              <a href="https://github.com/akhileshverma92/uiorbit_/blob/main/contributing.md" className="text-blue-600 hover:text-blue-700 ml-1">
                 Contribute on GitHub
               </a>
             </p>
